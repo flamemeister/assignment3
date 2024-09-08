@@ -126,4 +126,4 @@ if __name__ == "__main__":
     print("Running Processes:", running_processes)
     print("Disk Partitions:", disk_partitions)
     print("System Architecture:", system_architecture)
-    print("Environment Variables:", environment_variables)
+    print("Environment Variables:",environment_variables)
